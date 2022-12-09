@@ -48,7 +48,7 @@ Stappen:
 
 Nou kunnen we dit alles natuurlijk in de main met een System.out.println zetten en dan werkt het. Maar dat is niet wat we gaan doen. We gaan de applicatie netjes opbouwen met de kennis die je tot zo ver hebt opgedaan. 
 
-![Appeltaart](./assets/appeltaart.jpg)
+![Appeltaart](../assets/appeltaart.jpg)
 
 
 ## Randvoorwaarden
